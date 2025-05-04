@@ -1,0 +1,6 @@
+C:/Program Files (x86)/QHotkey/lib/libQHotkey.a
+C:/Program Files (x86)/QHotkey/include/qhotkey.h
+C:/Program Files (x86)/QHotkey/include/QHotkey
+C:/Program Files (x86)/QHotkey/lib/cmake/QHotkey/QHotkeyConfigVersion.cmake
+C:/Program Files (x86)/QHotkey/lib/cmake/QHotkey/QHotkeyConfig.cmake
+C:/Program Files (x86)/QHotkey/lib/cmake/QHotkey/QHotkeyConfig-noconfig.cmake

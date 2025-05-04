@@ -1,0 +1,9 @@
+# ninja log v6
+44	466	7680413100924593	QHotkey_autogen/timestamp	c3c667797dce026c
+44	466	7680413100924593	QHotkey_autogen/mocs_compilation.cpp	c3c667797dce026c
+44	466	7680413100924593	C:/Users/uwu/third_party/QHotkey/build/QHotkey_autogen/timestamp	c3c667797dce026c
+44	466	7680413100924593	C:/Users/uwu/third_party/QHotkey/build/QHotkey_autogen/mocs_compilation.cpp	c3c667797dce026c
+470	2133	7680413101722146	CMakeFiles/QHotkey.dir/QHotkey_autogen/mocs_compilation.cpp.obj	5691b589eb6b3554
+474	2483	7680413101722146	CMakeFiles/QHotkey.dir/QHotkey/qhotkey.cpp.obj	fa063173738ad535
+477	3305	7680413101818408	CMakeFiles/QHotkey.dir/QHotkey/qhotkey_win.cpp.obj	bfcef76f5c6354e2
+3306	3414	7680413130084316	libQHotkey.a	2b951ee90e4e0ab1

@@ -1,0 +1,11 @@
+C:/Users/uwu/third_party/QHotkey/build/CMakeFiles/QHotkey.dir
+C:/Users/uwu/third_party/QHotkey/build/CMakeFiles/package.dir
+C:/Users/uwu/third_party/QHotkey/build/CMakeFiles/package_source.dir
+C:/Users/uwu/third_party/QHotkey/build/CMakeFiles/edit_cache.dir
+C:/Users/uwu/third_party/QHotkey/build/CMakeFiles/rebuild_cache.dir
+C:/Users/uwu/third_party/QHotkey/build/CMakeFiles/list_install_components.dir
+C:/Users/uwu/third_party/QHotkey/build/CMakeFiles/install.dir
+C:/Users/uwu/third_party/QHotkey/build/CMakeFiles/install/local.dir
+C:/Users/uwu/third_party/QHotkey/build/CMakeFiles/install/strip.dir
+C:/Users/uwu/third_party/QHotkey/build/CMakeFiles/QHotkey_autogen_timestamp_deps.dir
+C:/Users/uwu/third_party/QHotkey/build/CMakeFiles/QHotkey_autogen.dir
